@@ -1,1 +1,1 @@
-# Paribu-Hub-smart-solidty-final-projesi
+# Paribu-Hub-smart-solidity-final-projesi
